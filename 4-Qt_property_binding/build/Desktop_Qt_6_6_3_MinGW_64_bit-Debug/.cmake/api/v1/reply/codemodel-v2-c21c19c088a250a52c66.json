@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d5ffecf043d911b870e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4-Qt_property_binding",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-548ba740167b9e9a0492.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-9ecb662eba3a6d4617bf.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-62db3a0041f543e7fb4f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-2649f7af82bfed9148d7.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding-Debug-78ddf85943b3f5f7d13e.json",
+					"name" : "app4-Qt_property_binding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_autogen-Debug-06607631ad671e30aaec.json",
+					"name" : "app4-Qt_property_binding_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_autogen_timestamp_deps-Debug-2aecab9bcba59322eb4c.json",
+					"name" : "app4-Qt_property_binding_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_qmlimportscan-Debug-47cdfd0457966b622fda.json",
+					"name" : "app4-Qt_property_binding_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_qmllint-Debug-75d29df5ecd51d6287ac.json",
+					"name" : "app4-Qt_property_binding_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_qmllint_json-Debug-4842a39810078f2f4156.json",
+					"name" : "app4-Qt_property_binding_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_qmllint_module-Debug-5df07b67e4b977dfe586.json",
+					"name" : "app4-Qt_property_binding_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_qmltyperegistration-Debug-63128a2b6488e50cf512.json",
+					"name" : "app4-Qt_property_binding_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app4-Qt_property_binding_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app4-Qt_property_binding_tooling-Debug-43d274949bf3c5fa9e22.json",
+					"name" : "app4-Qt_property_binding_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/SADRA/Desktop/cpp_apps/4-Qt_property_binding/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/SADRA/Desktop/cpp_apps/4-Qt_property_binding"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
