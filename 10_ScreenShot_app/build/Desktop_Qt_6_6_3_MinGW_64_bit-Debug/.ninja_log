@@ -1,9 +1,0 @@
-# ninja log v6
-47	280	7611438347177192	10_ScreenShot_app_autogen/timestamp	f7d05a0525c3d6de
-1406	5681	7609424471294647	CMakeFiles/10_ScreenShot_app.dir/10_ScreenShot_app_autogen/mocs_compilation.cpp.obj	e915fefef395e3c6
-47	280	7611438347177192	10_ScreenShot_app_autogen/mocs_compilation.cpp	f7d05a0525c3d6de
-282	3921	7611438349517135	CMakeFiles/10_ScreenShot_app.dir/main.cpp.obj	806cb04a1976595e
-47	280	7611438347177192	C:/Users/SADRA/Desktop/cpp_apps/10_ScreenShot_app/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/10_ScreenShot_app_autogen/timestamp	f7d05a0525c3d6de
-47	280	7611438347177192	C:/Users/SADRA/Desktop/cpp_apps/10_ScreenShot_app/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/10_ScreenShot_app_autogen/mocs_compilation.cpp	f7d05a0525c3d6de
-286	3331	7611438349567383	CMakeFiles/10_ScreenShot_app.dir/mainwindow.cpp.obj	80c45e369511763d
-3921	4234	7611438385917127	10_ScreenShot_app.exe	cdde5b2645f8f127
